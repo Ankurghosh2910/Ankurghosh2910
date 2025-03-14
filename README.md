@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankur Ghosh  
 
-<!--
-**Ankurghosh2910/Ankurghosh2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🔬 AI/ML enthusiast with a strong interest in **Big Data architectures, NLP, and AI-driven automation**.  
+📊 Passionate about **Machine Learning, Time Series Forecasting, and AI model optimization**.  
+⚙️ Exploring **MLOps** to bridge the gap between model development and deployment.  
 
-Here are some ideas to get you started:
+## 🔭 Current Work  
+- Researching **Big Data frameworks** and **scalable AI architectures**.  
+- Experimenting with **NLP techniques** and **AI-driven recommendations**.  
+- Learning **MLOps best practices** for seamless AI model deployment.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Looking to Collaborate On  
+- **AI/ML projects** focusing on NLP, recommendation systems, and automation.  
+- **Optimizing AI workflows** and handling large-scale data processing.  
+
+## 💬 Ask Me About  
+- **Machine Learning & Deep Learning**  
+- **Natural Language Processing (NLP)**  
+- **Time Series Forecasting**  
+- **AI Model Optimization & Deployment**  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankurghosh2910/)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankurghosh2910)  
+
+## ⚡ Fun Fact  
+🎬 I love **psychological thriller movies** like *Shutter Island* and enjoy deep discussions on **AI and its real-world impact**.  
